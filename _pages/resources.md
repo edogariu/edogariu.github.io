@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 <!-- pages/resources.md -->
-<div class="courses">
+<div class="resources">
 {%- if site.enable_resource_categories and page.display_categories %}
   <!-- Display categorized resources -->
   {%- for category in page.display_categories %}
