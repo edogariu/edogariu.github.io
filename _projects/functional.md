@@ -18,7 +18,7 @@ We actually went much more toward the spectral theory and the functional calculu
 # Reading List
 - <a href="https://web.math.princetosn.edu/~shapiro/teaching.html">Prof. Shapiro's course page </a>
 - <a href="http://www.astrosen.unam.mx/~aceves/Metodos/ebooks/reed_simon1.pdf">Reed & Simon's Methods of Modern Mathematical Physics I</a> (affectionately "R&S")
-- <a href="https://59clc.files.wordpress.com/2012/08/functional-analysis-_-rudin-2th.pdf">Walter Rudin's Functional Analysis</a> (cited "Rudin" with pleasure)
+- <a href="https://59clc.files.wordpress.com/2012/08/functional-analysis-_-rudin-2th.pdf">Walter Rudin's Functional Analysis</a> (aka "Rudin")
 - TODO: add other sources
 
 # Notes & Problem Sets
