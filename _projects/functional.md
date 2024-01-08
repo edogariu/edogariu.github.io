@@ -8,38 +8,15 @@ category: math
 related_publications: 
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+# Description
+This is the page for <a href="https://registrar.princeton.edu/course-offerings/course-details?term=1242&courseid=012150">a course at Princeton</a> taught by the lovely Prof. Jacob Shapiro that I took during Fall 2023. Below is the course description and some resources about the topic.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+"Basic introductory course to modern methods of analysis. The possible topics may include $L^p$ spaces, Banach spaces, uniform boundedness principle, closed graph theorem, locally convex spaces, distributions, Fourier transform, Riesz interpolation theorem, Hardy-Littlewood maximal function, Calderon-Zygmund theory, oscillatory integrals, almost orthogonality, Sobolev spaces, restriction theorems, spectral theory of compact operators, applications to partial differential equations."
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/functionalanalysis.jpg
-    ---
+# Reading List
+- <a href="http://www.astrosen.unam.mx/~aceves/Metodos/ebooks/reed_simon1.pdf">Reed & Simon's Methods of Modern Mathematical Physics I</a> (affectionately R&S)
+- <a href="https://59clc.files.wordpress.com/2012/08/functional-analysis-_-rudin-2th.pdf">Walter Rudin's Functional Analysis</a> (affectionately Rudin)
+- TODO: add other sources
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+# My Notes
+- TODO: add my notes, psets, and exams
