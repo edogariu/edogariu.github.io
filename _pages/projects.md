@@ -5,7 +5,7 @@ permalink: /projects/
 description: Resources from the courses I've taken and elsewhere..
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [math, cos, physics, other, work, fun]
 horizontal: false
 ---
 
