@@ -16,7 +16,7 @@ This is the page for <a href="https://registrar.princeton.edu/course-offerings/c
 We actually went much more toward the spectral theory and the functional calculus direction, and eventuall culminating in unbounded operators. One of my favorite courses at Princeton!
 
 # Reading List
-- <a href="https://web.math.princetosn.edu/~shapiro/teaching.html">Prof. Shapiro's course page </a>
+- <a href="https://web.math.princeton.edu/~shapiro/teaching.html">Prof. Shapiro's course page </a>
 - <a href="http://www.astrosen.unam.mx/~aceves/Metodos/ebooks/reed_simon1.pdf">Reed & Simon's Methods of Modern Mathematical Physics I</a> (affectionately "R&S")
 - <a href="https://59clc.files.wordpress.com/2012/08/functional-analysis-_-rudin-2th.pdf">Walter Rudin's Functional Analysis</a> (aka "Rudin")
 - TODO: add other sources
@@ -24,15 +24,15 @@ We actually went much more toward the spectral theory and the functional calculu
 # Notes & Problem Sets
 - Prof. Shapiro's typed <a href="https://web.math.princeton.edu/~shapiro/PDFs/teaching/MAT520_fall_2023/MAT520_Lecture_Notes.pdf">notes</a> for the course.
 - My problem sets! I don't think any are really awfully wrong, but some are incorrect for sure. Email me if there's anything to discuss:
-    - <a href="assets/pdf/functional_notes/ps1.pdf">PSet 1</a>
-    - <a href="assets/pdf/functional_notes/ps2.pdf">PSet 2</a>
-    - <a href="assets/pdf/functional_notes/ps3.pdf">PSet 3</a>
-    - <a href="assets/pdf/functional_notes/ps4.pdf">PSet 4</a>
-    - <a href="assets/pdf/functional_notes/ps5.pdf">PSet 5</a>
-    - <a href="assets/pdf/functional_notes/ps6.pdf">PSet 6</a>
-    - <a href="assets/pdf/functional_notes/ps7.pdf">PSet 7</a>
-    - <a href="assets/pdf/functional_notes/ps8.pdf">PSet 8</a>
-    - <a href="assets/pdf/functional_notes/ps9.pdf">PSet 9</a>
-    - <a href="assets/pdf/functional_notes/ps10.pdf">PSet 10</a>
-    - <a href="assets/pdf/functional_notes/ps11.pdf">PSet 11</a>
+    - <a href="/assets/pdf/functional_notes/ps1.pdf">PSet 1</a>
+    - <a href="/assets/pdf/functional_notes/ps2.pdf">PSet 2</a>
+    - <a href="/assets/pdf/functional_notes/ps3.pdf">PSet 3</a>
+    - <a href="/assets/pdf/functional_notes/ps4.pdf">PSet 4</a>
+    - <a href="/assets/pdf/functional_notes/ps5.pdf">PSet 5</a>
+    - <a href="/assets/pdf/functional_notes/ps6.pdf">PSet 6</a>
+    - <a href="/assets/pdf/functional_notes/ps7.pdf">PSet 7</a>
+    - <a href="/assets/pdf/functional_notes/ps8.pdf">PSet 8</a>
+    - <a href="/assets/pdf/functional_notes/ps9.pdf">PSet 9</a>
+    - <a href="/assets/pdf/functional_notes/ps10.pdf">PSet 10</a>
+    - <a href="/assets/pdf/functional_notes/ps11.pdf">PSet 11</a>
 - TODO: add my notes and exams
