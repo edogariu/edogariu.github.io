@@ -9,48 +9,48 @@ display_categories: [math, cos, physics, other]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/resources.md -->
 <div class="courses">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
+{%- if site.enable_resource_categories and page.display_categories %}
+  <!-- Display categorized resources -->
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
+  {%- assign categorized_resources = site.resources | where: "category", category -%}
+  {%- assign sorted_resources = categorized_resources | sort: "importance" %}
+  <!-- Generate cards for each resource -->
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+    {%- for resource in sorted_resources -%}
+      {% include resources_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
+    {%- for resource in sorted_resources -%}
+      {% include resources.html %}
     {%- endfor %}
   </div>
   {%- endif -%}
   {% endfor %}
 
 {%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
+<!-- Display resources without categories -->
+  {%- assign sorted_resources = site.resources | sort: "importance" -%}
+  <!-- Generate cards for each resource -->
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+    {%- for resource in sorted_resources -%}
+      {% include resources_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
+    {%- for resource in sorted_resources -%}
+      {% include resources.html %}
     {%- endfor %}
   </div>
   {%- endif -%}
