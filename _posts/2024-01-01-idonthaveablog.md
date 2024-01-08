@@ -9,4 +9,4 @@ giscus_comments: false
 related_posts: false
 related_publications: 
 ---
-It is precisely as the title says. This blog looks super cool.
+It is precisely as the title says. This blog feature looks super cool in Jekyll via Markdown. Since it makes me feel like a badass I might use it in the future, but not now.
