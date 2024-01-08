@@ -9,7 +9,7 @@ profile:
   image: image.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Computer Science Department</p>
+    <p>Computer Science</p>
     <p>Princeton University</p>
 
 news: true  # includes a list of news items
