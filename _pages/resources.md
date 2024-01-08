@@ -5,7 +5,7 @@ permalink: /resources/
 description: Resources from the courses I've taken and elsewhere.
 nav: true
 nav_order: 4
-display_categories: [math, cos, physics, other]
+display_categories: [math, cos]
 horizontal: false
 ---
 
