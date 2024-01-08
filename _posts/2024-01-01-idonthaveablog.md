@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I don't actually have a blog but now I might
+title: I don't actually have a blog but now I want to
 date: 2024-01-01 05:12:00-0400
 description: Exactly what the title says
 tags: 
