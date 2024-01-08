@@ -4,7 +4,7 @@ title: Functional Analysis
 description: heehoo
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: math
 related_publications: 
 ---
 
