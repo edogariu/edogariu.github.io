@@ -20,6 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! My name is **Evan Dogariu**, and I am currently an undergraduate at Princeton majoring in Computer Science, with planned certificates in Applied Math and Engineering Physics. I am thankful to be advised by Prof. Elad Hazan :). I am currently applying for Ph. D. programs with emphasis on deep learning theory and optimization. I love research and the art of skillful and exciting learning. Feel free to contact me at `edogariu@<princeton>.edu` (without the brackets) for anything and everything, including just being friendly.
 
-My CV is attached <a href="Evan_CV.pdf">here</a>.
+My CV is attached <a href="assets/pdf/Evan_CV.pdf">here</a>.
 
 *Disclaimer: the website is currently under construction. Some things are a little wonky and many things are incomplete.*
