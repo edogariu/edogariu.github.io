@@ -24,5 +24,5 @@ We actually went much more toward the spectral theory and the functional calculu
 # Notes & Problem Sets
 - Prof. Shapiro's typed <a href="https://web.math.princeton.edu/~shapiro/PDFs/teaching/MAT520_fall_2023/MAT520_Lecture_Notes.pdf">notes</a> for the course.
 - My problem sets! I don't think any are really awfully wrong, but some are incorrect for sure. Email me if there's anything to discuss:
-    - <a href="./functional_notes/ps1.pdf">PSet 1</a>, b
+    - <a href="functional_notes/ps1.pdf">PSet 1</a>, b
 - TODO: add my notes, psets, and exams
