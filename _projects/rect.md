@@ -13,7 +13,7 @@ This is the page for <a href="https://registrar.princeton.edu/course-offerings/c
 
 "This is a monographic course on the topic of rectifiability, a concept introduced first by Besicovitch in the particular case of 1-dimensional sets in the plane. After introducing the Hausdorff dimension, the Hausdorff measures, the course covers Besicovitch's theory and touches upon the famous Besicovitch 1/2 conjecture, which is almost a century old and still unsolved. It then defines rectifiable sets and rectifiable measures in general dimension and codimension and covers the most basic and widely used rectifiability criteria.."
 
-Everything we learned was very elegant and beautiful despite its technicality. Since the course was not meant for undergrads we moved extremely fast and so I was exposed to a lot of new concepts very quickly.
+Everything we learned was very elegant and beautiful despite its technicality. Since the course was not meant for undergrads we moved extremely fast and so I was exposed to a lot of new concepts very quickly. We focused a lot on proving the Besicovitch-Mastrand-Preiss Theorem and some criteria for rectifiability and pure unrectifiability, developing analyses using rectifiable and tangent measures.
 
 # Reading List
 - TODO: add links to the many sources
