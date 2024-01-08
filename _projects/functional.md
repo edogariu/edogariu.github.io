@@ -9,7 +9,7 @@ related_publications:
 ---
 
 # Description
-This is the page for <a href="https://registrar.princeton.edu/course-offerings/course-details?term=1242&courseid=012150">a course at Princeton</a> taught by the lovely Prof. Jacob Shapiro that I took during Fall 2023. Below is the course description and some resources about the topic.
+This is the page for <a href="https://registrar.princeton.edu/course-offerings/course-details?term=1242&courseid=012150">a course at Princeton</a> (fourth in the analysis sequence) taught by the lovely Prof. Jacob Shapiro that I took during Fall 2023. Below is the course description and some resources about the topic.
 
 "Basic introductory course to modern methods of analysis. The possible topics may include $L^p$ spaces, Banach spaces, uniform boundedness principle, closed graph theorem, locally convex spaces, distributions, Fourier transform, Riesz interpolation theorem, Hardy-Littlewood maximal function, Calderon-Zygmund theory, oscillatory integrals, almost orthogonality, Sobolev spaces, restriction theorems, spectral theory of compact operators, applications to partial differential equations."
 
@@ -27,7 +27,7 @@ We actually went much more toward the spectral theory and the functional calculu
     - <a href="/assets/pdf/functional/ps1.pdf">PSet 1</a>
     - <a href="/assets/pdf/functional/ps2.pdf">PSet 2</a>
     - <a href="/assets/pdf/functional/ps3.pdf">PSet 3</a>
-    - <a href="/assets/pdf/v/ps4.pdf">PSet 4</a>
+    - <a href="/assets/pdf/functional/ps4.pdf">PSet 4</a>
     - <a href="/assets/pdf/functional/ps5.pdf">PSet 5</a>
     - <a href="/assets/pdf/functional/ps6.pdf">PSet 6</a>
     - <a href="/assets/pdf/functional/ps7.pdf">PSet 7</a>
