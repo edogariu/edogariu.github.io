@@ -19,7 +19,10 @@ We actually went much more toward the spectral theory and the functional calculu
 - <a href="https://web.math.princeton.edu/~shapiro/teaching.html">Prof. Shapiro's course page </a>
 - <a href="http://www.astrosen.unam.mx/~aceves/Metodos/ebooks/reed_simon1.pdf">Reed & Simon's Methods of Modern Mathematical Physics I</a> (affectionately "R&S")
 - <a href="https://59clc.files.wordpress.com/2012/08/functional-analysis-_-rudin-2th.pdf">Walter Rudin's Functional Analysis</a> (aka "Rudin")
-- TODO: add other sources
+- Jaksic's <a href="https://web.math.princeton.edu/~js129/PDFs/teaching/MAT520_fall_2023/Jaksic-topics-in-spectral-theory-05-38.pdf">"Topics in Spectral Theory"</a>
+- Helein's <a href="https://webusers.imj-prg.fr/~frederic.helein/polyspec.pdf">notes</a> on the spectral theory from Universite Paris Diderot
+- Erdman's <a href="https://web.pdx.edu/~erdman/FAOA/functional_analysis_operator_algebras_pdf.pdf">notes</a> on operator algebras
+- Dana P. Williams' <a href="https://math.dartmouth.edu/~dana/bookspapers/cstar.pdf">(very) short course</a> on C* algebras
 
 # Notes & Problem Sets
 - Prof. Shapiro's typed <a href="https://web.math.princeton.edu/~shapiro/PDFs/teaching/MAT520_fall_2023/MAT520_Lecture_Notes.pdf">notes</a> for the course.
