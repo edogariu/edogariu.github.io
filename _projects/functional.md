@@ -13,7 +13,7 @@ This is the page for <a href="https://registrar.princeton.edu/course-offerings/c
 
 "Basic introductory course to modern methods of analysis. The possible topics may include $L^p$ spaces, Banach spaces, uniform boundedness principle, closed graph theorem, locally convex spaces, distributions, Fourier transform, Riesz interpolation theorem, Hardy-Littlewood maximal function, Calderon-Zygmund theory, oscillatory integrals, almost orthogonality, Sobolev spaces, restriction theorems, spectral theory of compact operators, applications to partial differential equations."
 
-We actually went much more toward the spectral theory and the functional calculus direction, and eventuall culminating in unbounded operators. One of my favorite courses at Princeton!
+We actually went much more toward the spectral theory and the functional calculus direction, and eventually culminated in unbounded operators. One of my favorite courses at Princeton!
 
 # Reading List
 - <a href="https://web.math.princeton.edu/~shapiro/teaching.html">Prof. Shapiro's course page </a>
