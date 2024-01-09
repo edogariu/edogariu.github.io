@@ -1,8 +1,8 @@
 ---
 layout: page
-title: resources
+title: Courses
 permalink: /projects/
-description: Resources from the courses I've taken and elsewhere. The problems in the attached problem sets tend to be very well-chosen, which I think makes them useful.
+description: Resources from the courses I've taken. The problems in the attached problem sets tend to be very well-chosen, which I think makes them useful.
 nav: true
 nav_order: 2
 display_categories: [math, cos, physics, other]
