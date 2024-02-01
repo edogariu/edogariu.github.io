@@ -1,7 +1,7 @@
 ---
 layout: post
 title: List of papers/textbooks
-date: 2024-01-01 05:12:00-0400
+date: 2024-02-01 02:40:00-0400
 description: A list of papers/textbooks that I am reading or wanting to read.
 tags: 
 categories: 
