@@ -2,7 +2,7 @@
 layout: page
 title: courses
 permalink: /projects/
-description: Resources from the courses I've taken. The problems in the attached problem sets tend to be very well-chosen, which I think makes them useful. In addition, a huge list of the papers and textbooks I read (or want to read) can be found [here](https://bigmanoncampus.notion.site/bigmanoncampus/papers-9385f76e5a624d75bb1a0c3d773a65c8)
+description: Resources from the courses I've taken. The problems in the attached problem sets tend to be very well-chosen, which I think makes them useful.
 nav: true
 nav_order: 2
 display_categories: [math, cos, physics, other]
