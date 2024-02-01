@@ -125,7 +125,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Blog of Wood # blog_name will be displayed in your blog page
-blog_description: A down to earth blog but I cannot delete all the entries and have not posted anything.
+blog_description: One day I will get down to blogging or just generally writing up things. One day...
 permalink: /blog/:year/:title/
 
 # Pagination
