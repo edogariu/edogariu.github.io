@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Geometric Measure Theory
+title: Geometric Measure Theory: Rectifiability
 description: MAT526 @ Princeton
 img: assets/img/rect.jpg
 importance: 3
