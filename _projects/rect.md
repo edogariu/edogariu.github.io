@@ -23,7 +23,7 @@ Everything we learned was very elegant and beautiful despite its technicality. S
 - Evans & Gareipy <a href="https://eclass.uoa.gr/modules/document/file.php/MATH724/Evans%20L.C.%2C%20Gariepy%20R.F.%20-%20Measure%20theory%20and%20fine%20properties%20of%20functions-CRC%20%281992%29%20%282%29.pdf">Measure Theory and Fine Properties of Functions</a>.
 
 # Notes & Problem Sets
-- TODO add my notes
+- <a href="/assets/pdf/rect/notes.pdf">My notes I took during lecture</a>
 - My problem sets! I don't think any are really awfully wrong, but some are incorrect for sure. Email me if there's anything to discuss:
     - <a href="/assets/pdf/rect/ps1.pdf">PSet 1</a>
     - <a href="/assets/pdf/rect/ps2.pdf">PSet 2</a>
