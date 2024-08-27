@@ -26,5 +26,5 @@ Everything we learned was very elegant and beautiful despite its technicality. S
 - TODO add my notes
 - My problem sets! I don't think any are really awfully wrong, but some are incorrect for sure. Email me if there's anything to discuss:
     - <a href="/assets/pdf/rect/ps1.pdf">PSet 1</a>
-    - <a href="/assets/pdf/functional/ps2.pdf">PSet 2</a>
+    - <a href="/assets/pdf/rect/ps2.pdf">PSet 2</a>
 - <a href="/assets/pdf/rect/presentation.pdf">Background notes</a> for my final presentation
