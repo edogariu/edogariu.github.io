@@ -16,6 +16,7 @@ This is the page for <a href="https://minterscompactness.wordpress.com/teaching/
 I have no idea how I managed to follow along, but I did and I am very proud. This class gave me some very cool ideas for DL theory, email me if interested :)
 
 # Reading List
+- As always, Leon Simon's <a href="https://web.stanford.edu/class/math285/ts-gmt.pdf">textbook</a> (builds toward varifolds and integration).
 - Belletini's <a href="https://arxiv.org/abs/2310.01340">extension of Schoen-Simon regularity theory</a> via De-Giorgi iteration.
 - Allard's <a href="https://www.jstor.org/stable/1970868">original regularity paper</a>.
 - Leon Simon's <a href="https://projecteuclid.org/journals/journal-of-differential-geometry/volume-38/issue-3/Cylindrical-tangent-cones-and-the-singular-set-of-minimal-submanifolds/10.4310/jdg/1214454484.full">cylindrical cones</a> paper.
