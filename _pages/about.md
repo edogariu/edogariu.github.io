@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! My name is **Evan Dogariu**, and I am a first-year Ph.D. student in computer science at NYU Courant. Previously, I majored in computer science at Princeton (with engineering physics minor), where I was very very lucky to be advised by Prof. Elad Hazan :)
+Hi! My name is **Evan Dogariu**, and I am a first-year Ph.D. student in computer science at NYU Courant. Previously, I majored in computer science at Princeton (with engineering physics minor), where I was very very lucky to be advised by [Prof. Elad Hazan](https://www.ehazan.com) :)
 
 I love research and the art of skillful and exciting learning. Feel free to contact me at `ed2719@<nyu>.edu` (without the brackets) for anything and everything, including just being friendly.
 
