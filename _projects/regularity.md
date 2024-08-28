@@ -2,7 +2,7 @@
 layout: page
 title: Geometric Measure Theory - Regularity
 description: unofficial course @ Princeton
-img: assets/img/regularity.jpg
+img: assets/img/regularity.png
 importance: 2
 category: math
 related_publications: 
