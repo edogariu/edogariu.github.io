@@ -23,6 +23,7 @@ We actually went much more toward the spectral theory and the functional calculu
 - Helein's <a href="https://webusers.imj-prg.fr/~frederic.helein/polyspec.pdf">notes</a> on the spectral theory from Universite Paris Diderot
 - Erdman's <a href="https://web.pdx.edu/~erdman/FAOA/functional_analysis_operator_algebras_pdf.pdf">notes</a> on operator algebras
 - Dana P. Williams' <a href="https://math.dartmouth.edu/~dana/bookspapers/cstar.pdf">(very) short course</a> on C* algebras
+- Teschl's <a href="https://www.mat.univie.ac.at/~gerald/ftp/book-schroe/schroe.pdf">Mathematical Methods in Quantum Mechanics</a> textbook (with applications to Schrodinger operators)
 
 # Notes & Problem Sets
 - Prof. Shapiro's typed <a href="https://web.math.princeton.edu/~shapiro/PDFs/teaching/MAT520_fall_2023/MAT520_Lecture_Notes.pdf">notes</a> for the course.
