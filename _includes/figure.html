@@ -7,9 +7,9 @@
       https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images-->
     {% if site.imagemagick.enabled %}
       <source class = "responsive-img-srcset" srcset="
-      {% for i in site.imagemagick.widths -%}
+<!--       {% for i in site.imagemagick.widths -%}
       {{ img_path | relative_url }}-{{ i }}.webp {{i}}w,
-      {% endfor -%}" 
+      {% endfor -%}"  -->
       {% if include.sizes %} sizes="{{include.sizes}}" {% else %} sizes="95vw" {% endif %}
       type="image/webp"/>
     {% endif %}
