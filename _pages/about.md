@@ -6,7 +6,7 @@ subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: pfp.jpg
+  image: https://signavatar.com/79237_v.gif
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Computer Science @ NYU</p>
